@@ -41,8 +41,8 @@
              "quantity": 7
          }
      ],
-     "customerEmail": "abcd@gmail.com",
-     "customerName": "Anand Dubey"
+     "customerEmail": "ghibi@gmail.com",
+     "customerName": "ghibi"
  }
  
  **Response** 
@@ -66,8 +66,8 @@
       
       "customer": {
           "id": 2,
-          "name": "Anand Dubey",
-          "email": "anand@gmail.com"
+          "name": "Slamet",
+          "email": "slamet@gmail.com"
       },
       "cartItems": [
           {
